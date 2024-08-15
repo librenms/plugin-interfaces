@@ -1,5 +1,7 @@
 # LibreNMS Plugin Interfaces
 
+Plugins for [LibreNMS](https://librenms.org) https://github.com/librenms/librenms
+
 Create a new Laravel Package as described:
 https://laravel.com/docs/packages
 
