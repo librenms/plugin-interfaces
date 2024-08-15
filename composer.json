@@ -2,7 +2,7 @@
     "name": "librenms/plugin-interfaces",
     "description": "Interfaces required to create a LibreNMS Plugin",
     "type": "library",
-    "license": "Zero-Clause BSD",
+    "license": "BSD Zero Clause License",
     "homepage": "https://www.librenms.org/",
     "autoload": {
         "psr-4": {
